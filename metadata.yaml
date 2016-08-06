@@ -1,0 +1,31 @@
+_repo: Dogs-and-All-about-Them_10991
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leighton, Robert
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '3054'
+    url: http://www.gutenberg.org/2009/agents/3054
+description: Cover; Front matter; Title page; Copyright page; Body matter; Preface;
+  General History Of The Dog; The English Mastiff; The Bulldog; The St Bernard; The
+  Newfoundland; The Grat Dane; The Dalmatian; The Collie; The Old English Sheepdog;
+  The Chow; The Poodle; The Schipperke; The Bloodhound; The Otterhound; The Irish
+  Wolfhound; The Deerhound; The Borzoi Or Russian Wolfhound; The Greyhound; The Whippet;
+  The Foxhound; The Harrier And The Beagle; The Pointer; The Setters; The Retrievers;
+  The Sporting Spaniel; The Bassett-Hound; The Dachshund; The Old Working Terrier;
+  The White English Terrier.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SF'
+- !lcsh 'Dogs'
+- GITenberg
+title: Dogs and All about Them
+url: http://www.gutenberg.org/ebooks/10991
